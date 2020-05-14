@@ -1,5 +1,20 @@
 # ROS tutorial
 
+
+## Recording
+The password for these recordings is p1*xvnUWRgaC
+
+The below links will expire on 13-11-2020 and will become unavailable for download after this date.
+
+Video (122.84 MB)
+
+https://cloudstor.aarnet.edu.au/plus/s/FkDpeZvkzhkIJQX
+
+Audio Only (14.96 MB)
+
+https://cloudstor.aarnet.edu.au/plus/s/A3X79sd3cPxYcaQ
+
+
 ## What is ROS? Why should I use it?
 ROS stands for Robot Operating System. In reality, it is not an operating system, so much as a communications framework between different programs.
 
