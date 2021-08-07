@@ -1,7 +1,0 @@
-<launch>
-  <!-- We resume the logic in empty_world.launch, changing only the name of the world to be launched -->
-  <node pkg="hello_world" type="jkrowling.py" name="jkrowling"></node>
-  <node pkg="hello_world" type="hpfan.py" name="fan1"></node>
-  <node pkg="hello_world" type="hpfan.py" name="fan2"></node>
-  <node pkg="hello_world" type="hpfan.py" name="fan3"></node>
-</launch>

@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="usrc_tutorials" type="hello_world_pub.py" name="publisher"></node>
+  <node pkg="usrc_tutorials" type="hello_world_sub.py" name="subscriber1"></node>
+  <node pkg="usrc_tutorials" type="hello_world_sub.py" name="subscriber2"></node>
+  <node pkg="usrc_tutorials" type="hello_world_sub.py" name="subscriber3"></node>
+</launch>
